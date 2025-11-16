@@ -12,7 +12,7 @@ I'm passionate about turning data into insights and building scalable data pipel
 - 💼 Experience: **5+ years in Data Engineering & Python Development**
 - 📍 Location: **Bangalore, India**
 - 💬 Ask me about: **Python, Data Engineering, AI/ML, Career Growth**
-- 📫 Reach me: **(https://www.linkedin.com/in/zuhrah-sirguroh/)** | **(https://www.instagram.com/zuhrah.tech/)**
+- 📫 Reach me: **[[]Linkedin](https://www.linkedin.com/in/zuhrah-sirguroh/)** | **[[Instagram]](https://www.instagram.com/zuhrah.tech/)**
 - ⚡ Fun fact: **I did my M.Tech while working full-time!**
 
 ### 🛠️ Tech Stack
