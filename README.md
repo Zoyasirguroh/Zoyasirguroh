@@ -12,7 +12,7 @@ I'm passionate about turning data into insights and building scalable data pipel
 - 💼 Experience: **5+ years in Data Engineering & Python Development**
 - 📍 Location: **Bangalore, India**
 - 💬 Ask me about: **Python, Data Engineering, AI/ML, Career Growth**
-- 📫 Reach me: **[[Your LinkedIn URL]](https://www.linkedin.com/in/zuhrah-sirguroh/)** | **[[Your Twitter/X]](https://www.instagram.com/zuhrah.tech/)**
+- 📫 Reach me: **(https://www.linkedin.com/in/zuhrah-sirguroh/)** | **(https://www.instagram.com/zuhrah.tech/)**
 - ⚡ Fun fact: **I did my M.Tech while working full-time!**
 
 ### 🛠️ Tech Stack
@@ -49,9 +49,9 @@ I'm passionate about turning data into insights and building scalable data pipel
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zoyasirguroh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoyasirguroh&layout=compact&theme=radical)
 
 ### 🔥 Current Focus
 
